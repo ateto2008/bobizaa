@@ -7,26 +7,26 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "249118215303"
 
 global.owner = [
-  ['212717457920', 'bobiza', true],
+  ['249124702614', 'teto', true],
 
-  ['212717457920','bobiza', true],
-  ['212717457920'],
-  ['212717457920']
+  ['249124702614','teto', true],
+  ['249124702614'],
+  ['249124702614']
 ];
 
-global.suittag = ['212717457920'];
-global.prems = ['212717457920'];
+global.suittag = ['249124702614'];
+global.prems = ['249124702614'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
-global.titulowm = 'bobiza';
-global.titulowm2 = `bobiza`
-global.igfg = 'bobiza';
-global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
+global.packname = 'بوت الأسطورة';
+global.author = 'تم بواسطة عمكم تيتو';
+global.wm = 'تيـتو ي باشا 🇸🇩🔱';
+global.titulowm = 'بوت الأسطورة';
+global.titulowm2 = `بوت الأسطورة`
+global.igfg = 'بوت الأسطورة';
+global.wait = '*|🏃| loading...*\n*الصبر ي ولضمي 🫴* ♥\ninstagram.com/noureddine_ouafy';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
@@ -46,14 +46,14 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nBOBIZA`;
-global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
-global.md = 'https://instagram.com/noureddine_ouafy';
-global.mysticbot = 'https://instagram.com/noureddine_ouafy';
+global.gt = 'TETOBOT';
+global.mysticbot = 'The Teto bot';
+global.md = 'https://instagram.com/awabofficial';
+global.mysticbot = 'https://instagram.com/awabofficial';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '212605784394';
+global.nomorown = '249124702614';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
